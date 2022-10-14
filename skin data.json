@@ -3,7 +3,7 @@
 		 "rewarde_type": "yandex",
 		"native_type": "yandex",
 		"inter_type": "yandex",
-		"banner_type": "admob",
+		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
@@ -16,7 +16,7 @@
 		"cpa_popup_title": "admob",
 		"CpaPopUpSousTitle": "admob",
 		"cpa_popup_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
-		"cpa_popup_time": 1,
+		"cpa_popup_time": 1000,
 
 		"unity_id": "4292105",
 
